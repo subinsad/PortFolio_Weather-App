@@ -10,7 +10,7 @@
             <h1>Seoul, South Korea</h1>
           <p>1월 10일 월요일 오후 2시 47분</p>
           </div>  
-        
+        아 진짜 뭐라는지 하는지 모르겠다. ㅡㅡ ;;
         <div class="btn">
           <div class="btn-1" id="btn-vue">
             <button @click="showBlueLayout" 
